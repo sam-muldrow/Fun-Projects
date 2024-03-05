@@ -1,0 +1,1 @@
+-ExecutionPolicy Bypass -File C:\Users\IOL\Music\LockMeOut.ps1
